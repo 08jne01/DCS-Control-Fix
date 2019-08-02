@@ -1,6 +1,6 @@
 # DCS-Control-Fix
 
-#Python is required
+Python is required
 
 # How to use
 
