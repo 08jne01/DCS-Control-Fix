@@ -3,6 +3,9 @@ import re
 
 reg = r'\{(.*?)\}'
 
+
+#Put this file in your input fol
+
 #New ID
 ids = ["new id of your joystick", "new id of your throttle", "new id of your pedals"]
 #Corresponding old ID. The new and old must be in the same position in the list
