@@ -28,5 +28,5 @@ for directory in dirs:
                     if (s != controls):
                         path = dir_path + "/" + directory + "/joystick/"
                         os.rename(path + controls, path + s)
-                        print "Renaming file to {}".format(s)
+                        print("Renaming file to {}".format(s))
                     n += 1
